@@ -5,8 +5,8 @@ import { Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    role: 'Junior WordPress and Laravel Developer',
-    company: 'eSoftbay',
+    role: 'Laravel and WordPress Developer',
+    company: 'esoftbay',
     period: 'August 2025 – Present',
     type: 'Full-time',
     description:

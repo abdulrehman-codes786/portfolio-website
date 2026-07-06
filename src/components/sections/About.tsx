@@ -110,7 +110,7 @@ export default function About() {
             >
               {/* Stat 1 */}
               <div className="p-6 rounded-2xl glassmorphism border border-white/5 text-center flex flex-col justify-center items-center h-32 hover:border-[#00E5FF]/30 transition-colors duration-300">
-                <CountUp end={25} suffix="+" />
+                <CountUp end={6} suffix="+" />
                 <span className="text-xs text-[#A0AEC0] font-sans uppercase tracking-wider mt-2 font-medium">Projects Done</span>
               </div>
               {/* Stat 2 */}
@@ -143,8 +143,8 @@ export default function About() {
               </div>
               <div>
                 <span className="text-xs text-purple-400 font-semibold tracking-wider block mb-1">CURRENT STATUS</span>
-                <h4 className="text-white font-semibold text-base font-display">Junior WordPress & Laravel Developer</h4>
-                <p className="text-sm text-[#A0AEC0] mt-0.5">eSoftbay — August 2025 - Present (Full-time Web Engineering)</p>
+                <h4 className="text-white font-semibold text-base font-display">Laravel and WordPress Developer</h4>
+                <p className="text-sm text-[#A0AEC0] mt-0.5">esoftbay — August 2025 - Present (Full-time Web Engineering)</p>
               </div>
             </motion.div>
           </div>
