@@ -20,7 +20,7 @@ const projects = [
     tags: ['WordPress', 'Elementor', 'Responsive Design'],
     github: 'https://github.com',
     live: 'https://github.com',
-    image: '/projects/1.png',
+    image: '/projects/med.png',
     color: 'from-[#00E5FF] to-[#7C3AED]',
   },
   {
@@ -59,7 +59,7 @@ const projects = [
     tags: ['Laravel', 'PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Database Management'],
     github: '#',
     live: 'https://eapp.esoftbay.com/',
-    image: '/projects/crm.JPG',
+    image: '/projects/crm.jpg',
     color: 'from-[#22D3EE] to-green-400',
   },
   {
